@@ -1,0 +1,90 @@
+Thu, 11 May 2023 03:03:17
+I need to find a way to continue a Connect 4 game from the last saved status
+
+Thu, 11 May 2023 03:04:35
+how to get rid of color values on .svg file? (paint by number)
+
+Thu, 11 May 2023 03:12:18
+Make google form by hitting api
+
+Thu, 11 May 2023 03:27:21
+Is pypdf2 safe from a privacy point of view?
+
+Thu, 11 May 2023 03:33:52
+Finding elementary intervals from a list of intervals with label(s)
+
+Thu, 11 May 2023 03:36:22
+Is python pillow safe from a privacy point of view?
+
+Thu, 11 May 2023 03:42:56
+ModuleNotFound Error: No module named tensorflow.security in Jupyter Notebook
+
+Thu, 11 May 2023 03:48:23
+Beautifulsoup returning NaN
+
+Thu, 11 May 2023 03:55:01
+How can selenium script get multiple user input
+
+Thu, 11 May 2023 04:00:10
+XPath SyntaxError: invalid predicate with text()
+
+Thu, 11 May 2023 04:03:36
+How can I connect to DocumentDB in my local PC with python?
+
+Thu, 11 May 2023 04:04:48
+How do I press 2 keys at a time using pyautogui?
+
+Thu, 11 May 2023 04:08:59
+How to create subelements with conditions in list?
+
+Thu, 11 May 2023 04:13:40
+I use Python to sovle a linear program but I pick an error
+
+Thu, 11 May 2023 04:16:38
+How to use python to highlight text in an image?
+
+Thu, 11 May 2023 04:16:52
+How to accurately split sentences in python?
+
+Thu, 11 May 2023 04:17:42
+Selenium finding and updating class with web app
+
+Thu, 11 May 2023 04:19:31
+trying to add sparklines to multiple rows with xlsxwriter
+
+Thu, 11 May 2023 04:20:15
+Is there a way to download ALL the results from a google news search into an excel sheet?
+
+Thu, 11 May 2023 04:24:46
+There is a syntax error in my Python code for my science project, is there a way to fix it?
+
+Thu, 11 May 2023 04:26:16
+Scraping a PowerBI Dashboard: scrolling table right and downward and saving values
+
+Thu, 11 May 2023 04:30:39
+Pass JS variable inside Selenium execute_script [Python]
+
+Thu, 11 May 2023 04:38:35
+Assertion failed:
+
+Thu, 11 May 2023 04:46:19
+Setup a logger that work as a tee command
+
+Thu, 11 May 2023 04:52:05
+Discord bot.py will not run with await bot.start()
+
+Thu, 11 May 2023 05:04:37
+Installing top2vec package, particularly in H2O Notebooks, and the error
+
+Thu, 11 May 2023 05:05:35
+Remove unwanted symbols using regex in dictionary
+
+Thu, 11 May 2023 05:07:15
+Receiving error 401 unauthorized when attempting to import a csv file into my Leads object using Close.io API
+
+Thu, 11 May 2023 05:08:24
+correct way of running a sql statement in async sqlalchemy
+
+Thu, 11 May 2023 05:11:24
+When I executed this code, I entered 5 and an unwanted result was printed Please tell me why
+
